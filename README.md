@@ -1,4 +1,2 @@
-# spotify-clone
-This is my first Git Repository.
-<br>
-Author - Manish yadav
+# spotify-project
+This is my first project
